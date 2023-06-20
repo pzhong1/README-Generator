@@ -5,6 +5,8 @@ https://drive.google.com/file/d/1qpxDfrbaZnN_tsFKxtCoE79iqiZoh3D5/view
 create a command-line application that dynamically generates a professional README.md file from a user's   
 input using the Inquirer package  
 
+## example image from terminal and README
+
 
 ## User Story
 AS A developer  
