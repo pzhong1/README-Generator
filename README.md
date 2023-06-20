@@ -4,9 +4,10 @@ https://drive.google.com/file/d/1qpxDfrbaZnN_tsFKxtCoE79iqiZoh3D5/view
 ## The URL of the GitHub repository
 https://github.com/pzhong1/README-Generator.git
 
-## Task
+## Task(Node js)
 create a command-line application that dynamically generates a professional README.md file from a user's   
-input using the Inquirer package  
+input using the Inquirer package 
+
 
 ## Example image from terminal and README
 ![Screenshot 2023-06-19 at 7 44 55 PM (2)](https://github.com/pzhong1/README-Generator/assets/123424361/d09ff5f7-bcc4-4ec9-9c2d-4d7c78d4c57d)
