@@ -1,8 +1,8 @@
 ## video Link  
 https://drive.google.com/file/d/1qpxDfrbaZnN_tsFKxtCoE79iqiZoh3D5/view
 
-##The URL of the GitHub repository
-
+## The URL of the GitHub repository
+https://github.com/pzhong1/README-Generator.git
 
 ## Task
 create a command-line application that dynamically generates a professional README.md file from a user's   
