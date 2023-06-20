@@ -1,4 +1,4 @@
-## video Link  
+## video Link  (A walkthrough video demonstrating the functionality of the application)
 https://drive.google.com/file/d/1qpxDfrbaZnN_tsFKxtCoE79iqiZoh3D5/view
 
 ## The URL of the GitHub repository
