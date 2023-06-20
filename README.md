@@ -6,7 +6,11 @@ create a command-line application that dynamically generates a professional READ
 input using the Inquirer package  
 
 ## Example image from terminal and README
+![Screenshot 2023-06-19 at 7 44 55 PM (2)](https://github.com/pzhong1/README-Generator/assets/123424361/d09ff5f7-bcc4-4ec9-9c2d-4d7c78d4c57d)
+
 <img width="1000" alt="Screenshot 2023-06-19 at 7 44 55 PM" src="https://github.com/pzhong1/README-Generator/assets/123424361/7e821ec4-ad5e-4950-b348-4dcc784a7ad0">
+
+
 
 ## User Story
 AS A developer  
